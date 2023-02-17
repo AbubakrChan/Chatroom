@@ -1,5 +1,5 @@
 
-#Chatroom in C using Socket Programming
+# Chatroom in C using Socket Programming
 
 The Chatroom in C using Socket Programming project is an application that enables users to communicate with each other by sending text messages in real-time. The application follows the client-server model, where a server program handles the chatroom and accepts connections from multiple client programs.
 
